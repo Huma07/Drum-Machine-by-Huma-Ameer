@@ -1,2 +1,4 @@
 # Drum-Machine-by-Huma-Ameer
-Third test of freeCodeCamp Front-end development liabrires certification
+The third test of freeCodeCamp Front-end development libraries certification
+
+This is an essential kind of drum machine where I've used the music or sounds provided by freeCodeCamp and made it work.
